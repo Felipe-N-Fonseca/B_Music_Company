@@ -1,11 +1,17 @@
+body {
+    background-color: #1C1C1C;
+}
+
 header {
-    background-color: blueviolet;
+    background-color: #000;
     border-radius: 0px 0px 30px 30px;
     box-shadow: 3px 2px 15px black;
 }
 
 header h2 {
-    color: #020202;
+    color: #fff;
+    margin-right: 5px;
+    margin-top: 10px;
 }
 
 .red {
@@ -13,5 +19,11 @@ header h2 {
 }
 
 .botoes-header {
-    margin: 15px 0px;
+    margin: 20px 0px;
+}
+
+.botoes-header a {
+    margin: 0px 7px;
+    color: red;
+    font-weight: 700;
 }
