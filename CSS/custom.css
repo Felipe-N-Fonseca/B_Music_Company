@@ -42,3 +42,36 @@ header h2 {
 .carousel img {
     border-radius: 30px;
 }
+
+.card {
+    border-radius: 30px;
+    background-color: #000;
+    margin-bottom: 20px;
+    margin-right: 5px;
+    width: 108% !important;
+}
+
+.card img {
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+}
+
+.card h6 {
+    font-size: 0.9rem;
+    color: darkgray;
+}
+
+.card h2 {
+    font-size: 1.6rem;
+    color: red;
+}
+
+.card p {
+    font-size: 0.8rem;
+    color: gray;
+}
+
+.titulo {
+    margin: 20px;
+    color: beige;
+}
