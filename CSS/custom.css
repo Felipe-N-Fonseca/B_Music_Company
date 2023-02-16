@@ -14,6 +14,12 @@ header h2 {
     margin-top: 10px;
 }
 
+header img {
+    height: 10%;
+    width: 10%;
+    margin-top: 15px;
+}
+
 .red {
     color: red;
 }
@@ -74,4 +80,13 @@ header h2 {
 .titulo {
     margin: 20px;
     color: beige;
+}
+
+.departamento img {
+    width: 100%;
+}
+
+.departamento a {
+    color: red;
+    margin-bottom: 10px;
 }
