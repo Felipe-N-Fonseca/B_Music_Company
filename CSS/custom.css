@@ -14,7 +14,7 @@ header h2 {
     margin-top: 10px;
 }
 
-header img {
+.icone {
     height: 10%;
     width: 10%;
     margin-top: 15px;
@@ -93,4 +93,20 @@ header img {
 
 .margem_baixa {
     margin-bottom: 20px;
+}
+
+footer {
+    background-color: #000;
+    border-radius: 30px 30px 0px 0px;
+    box-shadow: 3px 2px 15px black;
+    padding-top: 30px;
+}
+
+footer .icone {
+    margin-top: 0px;
+}
+
+footer h2 {
+    color: #fff;
+    margin-right: 5px;
 }
